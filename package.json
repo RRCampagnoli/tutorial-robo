@@ -1,0 +1,19 @@
+{
+  "name": "tutorial-robo",
+  "version": "1.0.0",
+  "description": "Projeto de robos de vídeos automatizados (tutorial: https://www.youtube.com/watch?v=kjhu1LEmRpY&amp;list=PLMdYygf53DP4YTVeu0JxVnWq01uXrLwHi&amp;index=1)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RRCampagnoli/tutorial-robo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RRCampagnoli/tutorial-robo/issues"
+  },
+  "homepage": "https://github.com/RRCampagnoli/tutorial-robo#readme"
+}
